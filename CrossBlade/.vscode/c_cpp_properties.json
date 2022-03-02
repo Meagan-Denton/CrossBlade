@@ -1,0 +1,14 @@
+{
+	"configurations": [
+		{
+			"name": "CrossBladeEditor Editor Win64 Development (CrossBlade)",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Development\\Git\\Reposities\\CrossBlade\\CrossBlade\\CrossBlade\\.vscode\\compileCommands_CrossBlade.json"
+		},
+		{
+			"name": "Win32",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Development\\Git\\Reposities\\CrossBlade\\CrossBlade\\CrossBlade\\.vscode\\compileCommands_Default.json"
+		}
+	]
+}

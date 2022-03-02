@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CrossBlade",
+			"Path": "C:\\Development\\Git\\Reposities\\CrossBlade\\CrossBlade\\CrossBlade\\Source\\CrossBlade.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CrossBladeEditor",
+			"Path": "C:\\Development\\Git\\Reposities\\CrossBlade\\CrossBlade\\CrossBlade\\Source\\CrossBladeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

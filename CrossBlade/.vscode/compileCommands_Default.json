@@ -1,0 +1,52 @@
+[
+	{
+		"file": "C:\\\\Development\\\\Git\\\\Reposities\\\\CrossBlade\\\\CrossBlade\\\\CrossBlade\\\\Source\\\\CrossBlade\\\\CrossBlade.Build.cs",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Development\\Git\\Reposities\\CrossBlade\\CrossBlade\\CrossBlade\\.vscode\\compileCommands_Default\\CrossBlade.222.rsp\"",
+		"directory": "C:\\Development\\Unreal\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Development\\\\Git\\\\Reposities\\\\CrossBlade\\\\CrossBlade\\\\CrossBlade\\\\Source\\\\CrossBlade\\\\CrossBlade.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Development\\Git\\Reposities\\CrossBlade\\CrossBlade\\CrossBlade\\.vscode\\compileCommands_Default\\CrossBlade.222.rsp\"",
+		"directory": "C:\\Development\\Unreal\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Development\\\\Git\\\\Reposities\\\\CrossBlade\\\\CrossBlade\\\\CrossBlade\\\\Source\\\\CrossBlade\\\\CrossBlade.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Development\\Git\\Reposities\\CrossBlade\\CrossBlade\\CrossBlade\\.vscode\\compileCommands_Default\\CrossBlade.222.rsp\"",
+		"directory": "C:\\Development\\Unreal\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Development\\\\Git\\\\Reposities\\\\CrossBlade\\\\CrossBlade\\\\CrossBlade\\\\Source\\\\CrossBlade\\\\FP_FirstPerson\\\\FP_FirstPerson.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Development\\Git\\Reposities\\CrossBlade\\CrossBlade\\CrossBlade\\.vscode\\compileCommands_Default\\CrossBlade.222.rsp\"",
+		"directory": "C:\\Development\\Unreal\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Development\\\\Git\\\\Reposities\\\\CrossBlade\\\\CrossBlade\\\\CrossBlade\\\\Source\\\\CrossBlade\\\\FP_FirstPerson\\\\FP_FirstPersonCharacter.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Development\\Git\\Reposities\\CrossBlade\\CrossBlade\\CrossBlade\\.vscode\\compileCommands_Default\\CrossBlade.222.rsp\"",
+		"directory": "C:\\Development\\Unreal\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Development\\\\Git\\\\Reposities\\\\CrossBlade\\\\CrossBlade\\\\CrossBlade\\\\Source\\\\CrossBlade\\\\FP_FirstPerson\\\\FP_FirstPersonCharacter.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Development\\Git\\Reposities\\CrossBlade\\CrossBlade\\CrossBlade\\.vscode\\compileCommands_Default\\CrossBlade.222.rsp\"",
+		"directory": "C:\\Development\\Unreal\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Development\\\\Git\\\\Reposities\\\\CrossBlade\\\\CrossBlade\\\\CrossBlade\\\\Source\\\\CrossBlade\\\\FP_FirstPerson\\\\FP_FirstPersonGameMode.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Development\\Git\\Reposities\\CrossBlade\\CrossBlade\\CrossBlade\\.vscode\\compileCommands_Default\\CrossBlade.222.rsp\"",
+		"directory": "C:\\Development\\Unreal\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Development\\\\Git\\\\Reposities\\\\CrossBlade\\\\CrossBlade\\\\CrossBlade\\\\Source\\\\CrossBlade\\\\FP_FirstPerson\\\\FP_FirstPersonGameMode.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Development\\Git\\Reposities\\CrossBlade\\CrossBlade\\CrossBlade\\.vscode\\compileCommands_Default\\CrossBlade.222.rsp\"",
+		"directory": "C:\\Development\\Unreal\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Development\\\\Git\\\\Reposities\\\\CrossBlade\\\\CrossBlade\\\\CrossBlade\\\\Source\\\\CrossBlade\\\\FP_FirstPerson\\\\FP_FirstPersonHUD.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Development\\Git\\Reposities\\CrossBlade\\CrossBlade\\CrossBlade\\.vscode\\compileCommands_Default\\CrossBlade.222.rsp\"",
+		"directory": "C:\\Development\\Unreal\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Development\\\\Git\\\\Reposities\\\\CrossBlade\\\\CrossBlade\\\\CrossBlade\\\\Source\\\\CrossBlade\\\\FP_FirstPerson\\\\FP_FirstPersonHUD.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Development\\Git\\Reposities\\CrossBlade\\CrossBlade\\CrossBlade\\.vscode\\compileCommands_Default\\CrossBlade.222.rsp\"",
+		"directory": "C:\\Development\\Unreal\\UE_4.27\\Engine\\Source"
+	}
+]

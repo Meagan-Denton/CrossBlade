@@ -1,0 +1,2 @@
+C:\Development\Git\Reposities\CrossBlade\CrossBlade\CrossBlade\Intermediate\Build\Win64\UE4Editor\Development\CrossBlade\Definitions.CrossBlade.h
+C:\Development\Git\Reposities\CrossBlade\CrossBlade\CrossBlade\Source\CrossBlade\CrossBlade.h

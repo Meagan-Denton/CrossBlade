@@ -1,0 +1,128 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "CrossBlade (Debug)",
+			"request": "launch",
+			"preLaunchTask": "CrossBlade Win64 Debug Build",
+			"program": "C:\\Development\\Git\\Reposities\\CrossBlade\\CrossBlade\\CrossBlade\\Binaries\\Win64\\UE4-Win64-Debug.exe",
+			"args": [
+			],
+			"cwd": "C:\\Development\\Unreal\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Development\\Unreal\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "CrossBlade (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "CrossBlade Win64 DebugGame Build",
+			"program": "C:\\Development\\Git\\Reposities\\CrossBlade\\CrossBlade\\CrossBlade\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
+			"args": [
+			],
+			"cwd": "C:\\Development\\Unreal\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Development\\Unreal\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "CrossBlade (Development)",
+			"request": "launch",
+			"preLaunchTask": "CrossBlade Win64 Development Build",
+			"program": "C:\\Development\\Git\\Reposities\\CrossBlade\\CrossBlade\\CrossBlade\\Binaries\\Win64\\UE4.exe",
+			"args": [
+			],
+			"cwd": "C:\\Development\\Unreal\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Development\\Unreal\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "CrossBlade (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "CrossBlade Win64 Shipping Build",
+			"program": "C:\\Development\\Git\\Reposities\\CrossBlade\\CrossBlade\\CrossBlade\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
+			"args": [
+			],
+			"cwd": "C:\\Development\\Unreal\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Development\\Unreal\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "CrossBlade (Test)",
+			"request": "launch",
+			"preLaunchTask": "CrossBlade Win64 Test Build",
+			"program": "C:\\Development\\Git\\Reposities\\CrossBlade\\CrossBlade\\CrossBlade\\Binaries\\Win64\\UE4-Win64-Test.exe",
+			"args": [
+			],
+			"cwd": "C:\\Development\\Unreal\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Development\\Unreal\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "CrossBladeEditor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "CrossBladeEditor Win64 Debug Build",
+			"program": "C:\\Development\\Unreal\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+			"args": [
+				"C:\\Development\\Git\\Reposities\\CrossBlade\\CrossBlade\\CrossBlade\\CrossBlade.uproject"
+			],
+			"cwd": "C:\\Development\\Unreal\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Development\\Unreal\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "CrossBladeEditor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "CrossBladeEditor Win64 DebugGame Build",
+			"program": "C:\\Development\\Unreal\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
+			"args": [
+				"C:\\Development\\Git\\Reposities\\CrossBlade\\CrossBlade\\CrossBlade\\CrossBlade.uproject"
+			],
+			"cwd": "C:\\Development\\Unreal\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Development\\Unreal\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "CrossBladeEditor (Development)",
+			"request": "launch",
+			"preLaunchTask": "CrossBladeEditor Win64 Development Build",
+			"program": "C:\\Development\\Unreal\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"C:\\Development\\Git\\Reposities\\CrossBlade\\CrossBlade\\CrossBlade\\CrossBlade.uproject"
+			],
+			"cwd": "C:\\Development\\Unreal\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Development\\Unreal\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "clr",
+			"request": "launch",
+			"program": "C:\\Development\\Unreal\\UE_4.27\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+			"console": "externalTerminal",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=C:\\Development\\Git\\Reposities\\CrossBlade\\CrossBlade\\CrossBlade\\CrossBlade.uproject",
+				"-game",
+				"-engine"
+			],
+			"internalConsoleOptions": "openOnSessionStart",
+			"cwd": "C:\\Development\\Unreal\\UE_4.27"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Development\\Git\\Reposities\\CrossBlade\\CrossBlade\\CrossBlade\\Source\\CrossBlade\\CrossBlade.Build.cs",
+		"C:\\Development\\Git\\Reposities\\CrossBlade\\CrossBlade\\CrossBlade\\Source\\CrossBlade.Target.cs",
+		"C:\\Development\\Git\\Reposities\\CrossBlade\\CrossBlade\\CrossBlade\\Source\\CrossBladeEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

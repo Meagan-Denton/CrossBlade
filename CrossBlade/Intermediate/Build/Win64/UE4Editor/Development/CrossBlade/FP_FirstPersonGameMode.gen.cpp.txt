@@ -1,0 +1,9 @@
+C:\Development\Git\Reposities\CrossBlade\CrossBlade\CrossBlade\Intermediate\Build\Win64\UE4Editor\Development\CrossBlade\Definitions.CrossBlade.h
+C:\Development\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Development\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Development\Git\Reposities\CrossBlade\CrossBlade\CrossBlade\Source\CrossBlade/FP_FirstPerson/FP_FirstPersonGameMode.h
+C:\Development\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Development\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Development\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Development\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Development\Git\Reposities\CrossBlade\CrossBlade\CrossBlade\Intermediate\Build\Win64\UE4Editor\Inc\CrossBlade\FP_FirstPersonGameMode.generated.h

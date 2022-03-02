@@ -1,0 +1,3 @@
+C:\Development\Git\Reposities\CrossBlade\CrossBlade\CrossBlade\Intermediate\Build\Win64\UE4Editor\Development\CrossBlade\Definitions.CrossBlade.h
+C:\Development\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Development\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

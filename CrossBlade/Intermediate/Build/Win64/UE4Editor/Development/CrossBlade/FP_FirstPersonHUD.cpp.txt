@@ -1,0 +1,17 @@
+C:\Development\Git\Reposities\CrossBlade\CrossBlade\CrossBlade\Intermediate\Build\Win64\UE4Editor\Development\CrossBlade\Definitions.CrossBlade.h
+C:\Development\Git\Reposities\CrossBlade\CrossBlade\CrossBlade\Source\CrossBlade\FP_FirstPerson\FP_FirstPersonHUD.h
+C:\Development\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+C:\Development\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+C:\Development\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+C:\Development\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+C:\Development\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+C:\Development\Git\Reposities\CrossBlade\CrossBlade\CrossBlade\Intermediate\Build\Win64\UE4Editor\Inc\CrossBlade\FP_FirstPersonHUD.generated.h
+C:\Development\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
+C:\Development\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Public\CanvasItem.h
+C:\Development\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+C:\Development\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+C:\Development\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FontImportOptions.generated.h
+C:\Development\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+C:\Development\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontProviderInterface.generated.h
+C:\Development\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Font.generated.h
+C:\Development\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Canvas.generated.h
